@@ -65,6 +65,7 @@ public class Person {
         this.weight = weight;
     }
 
+
     public Person() {
     }
 
