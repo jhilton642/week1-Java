@@ -21,5 +21,9 @@ public class Late {
      //   case 9:
     //    case 11: dayse = 30; break;
        // default: days = 28; break;
+        int divideTen = 57 / 10;
+        int round = (int) Math.floor(divideTen);
+        int tens = round * 10;
+        System.out.println(tens);
     }
 }

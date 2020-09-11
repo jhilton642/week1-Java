@@ -18,7 +18,6 @@ public class PatientStats {
         System.out.println("How does the patient feel (1-5)?: " + howDoYouFeel);
         System.out.println();
         System.out.println("COMMENTS:");
-
         if (temp < 80.0) {
             System.out.println("Patient has probably been dead for several days");
         } else if (temp < 87.5) {

@@ -24,8 +24,8 @@ public class Loops {
         int[] nums = {6, 12, 16, 12};
         float sum = 0;
         for (int item : nums) {
-            System.out.println(item);
-            sum +=item;
+                System.out.println(item);
+                sum +=item;
 
 
         }
